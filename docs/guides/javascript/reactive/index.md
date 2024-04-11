@@ -18,6 +18,10 @@ Third-party plugin developers are free to use any framework they want to impleme
 
 Nevertheless, in terms of reusability, maintainability and user experience the advantages of having a reactive UI are undeniable. For this reason Moodle has an adhoc reactive library that can be used to implement small reactive applications on any Moodle page.
 
+## Example
+
+An example and tutorial of sorts on how to build a minimal Moodle module using a reactive UI, with lots of explanations, can be found here: [moodle-mod_nosferatu](https://github.com/ferranrecio/moodle-mod_nosferatu).
+
 ## Reactive pattern highlights
 
 To understand the advantages (and disadvantages) of a reactive User Interface (UI) there are a few major points you must understand about reactivity:
